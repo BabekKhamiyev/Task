@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\obj\Debug\net8.0\Task Ecnapsulation & Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\obj\Debug\net8.0\Task Ecnapsulation & Inheritance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\obj\Debug\net8.0\Task Ecnapsulation & Inheritance.AssemblyInfo.cs
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\obj\Debug\net8.0\Task Ecnapsulation & Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\bin\Debug\net8.0\Task Ecnapsulation & Inheritance.exe
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\bin\Debug\net8.0\Task Ecnapsulation & Inheritance.deps.json
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\bin\Debug\net8.0\Task Ecnapsulation & Inheritance.runtimeconfig.json
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\bin\Debug\net8.0\Task Ecnapsulation & Inheritance.dll
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\bin\Debug\net8.0\Task Ecnapsulation & Inheritance.pdb
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\obj\Debug\net8.0\Task Ecnapsulation & Inheritance.dll
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\obj\Debug\net8.0\refint\Task Ecnapsulation & Inheritance.dll
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\obj\Debug\net8.0\Task Ecnapsulation & Inheritance.pdb
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\obj\Debug\net8.0\Task Ecnapsulation & Inheritance.genruntimeconfig.cache
+C:\Users\User\source\repos\Task Ecnapsulation & Inheritance\Task Ecnapsulation & Inheritance\obj\Debug\net8.0\ref\Task Ecnapsulation & Inheritance.dll
