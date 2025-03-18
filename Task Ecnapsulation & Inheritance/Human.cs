@@ -10,8 +10,18 @@ internal class Human
 {
     public string name;
     public string surname;
-    public byte age;
-
+    private byte _age;
+    public byte Age
+    {
+        get
+        {
+            return _age;
+        }
+        set
+        {
+            _age = value;
+        }
+    }
     public Human()
     {
         
@@ -28,7 +38,7 @@ internal class Human
     }
     public void ShowFullData()
     {
-        Console.WriteLine($"adi:{name}, soyadi:{surname}, yasi:{age}");
+        Console.WriteLine($"adi:{name}, soyadi:{surname}, yasi:{_age}");
     }
 
     public string GetFullName()

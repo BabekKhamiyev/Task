@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task Ecnapsulation & Inheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20f3cdeba7feb051921485b9de341adcb76d29fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task Ecnapsulation & Inheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task Ecnapsulation & Inheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
